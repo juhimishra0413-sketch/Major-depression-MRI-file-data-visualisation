@@ -101,4 +101,4 @@ For MDD, this pattern (many small activations, few large ones) is typical and re
 - `nibabel`
 - `matplotlib`
 - `glob`
-- `pathlib`
+- `os`
