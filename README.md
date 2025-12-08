@@ -4,7 +4,7 @@
 
 Date completed: December 5, 2025
 
-Neurosynth link: https://neurosynth.org/analyses/terms/mental%20imagery/
+Neurosynth link: [Major Depression Analysis – Neurosynth](https://neurosynth.org/analyses/terms/major%20depression/)
 
  ![alt text](image-1.png)
 
