@@ -6,6 +6,13 @@ Date completed: December 5, 2025
 
 Neurosynth link: [Major Depression Analysis – Neurosynth](https://neurosynth.org/analyses/terms/major%20depression/)
 
+# Table Of Content
+- Untitled-1.ipynb - the programming file
+- anotomical.nii - the MRI file of MDD
+- image-1.png - MRI image
+- image-2.png - Histogram Image
+- major depression_uniformity-test_z_FDR_0.01.nii - uniformity test file   
+
  ![alt text](image-1.png)
 
  ##  Understanding This fMRI Image (Major Depression)
