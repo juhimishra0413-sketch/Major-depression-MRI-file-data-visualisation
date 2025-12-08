@@ -72,5 +72,5 @@ plt.grid(False)
 plt.show()
 
 
-![alt text](image-3.png)
+image-2.png
 
