@@ -6,7 +6,7 @@ Date completed: December 5, 2025
 
 Neurosynth link: [Major Depression Analysis – Neurosynth](https://neurosynth.org/analyses/terms/major%20depression/)
 
-# Table Of Content
+## Table Of Content
 - Untitled-1.ipynb - the programming file
 - anotomical.nii - the MRI file of MDD
 - image-1.png - MRI image
