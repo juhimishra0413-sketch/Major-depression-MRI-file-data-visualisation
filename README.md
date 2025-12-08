@@ -72,5 +72,5 @@ plt.grid(False)
 plt.show()
 
 
-image-2.png
+image.png
 
