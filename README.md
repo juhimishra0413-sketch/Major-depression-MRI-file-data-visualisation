@@ -6,7 +6,7 @@ This code locates all - plotting MRI Brain region for affected areas in the brai
 
  `.nii` MRI files in a specified folder, then loads the anatomical scan and the corresponding uniformity-test image using `nibabel`. Using `nilearn.plotting`, it overlays the uniformity map (`unitest`) onto the anatomical image (`anat`) to highlight affected regions. The visualization applies a threshold of 0.5, an autumn colormap, and a black background for better contrast. Finally, the orthogonal brain slices are displayed to allow clear inspection of intensity abnormalities.
 
- import pandas as pd
+import pandas as pd
 import os
 import glob
 from nilearn import plotting
@@ -73,4 +73,14 @@ plt.show()
 
 
 ![alt text](image-2.png)
+
+Python version: 3.14.0
+
+# Python packages used:
+
+nilearn
+nibabel
+matplotlib
+glob
+pathlib
 
